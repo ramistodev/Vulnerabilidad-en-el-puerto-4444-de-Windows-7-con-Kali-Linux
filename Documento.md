@@ -155,7 +155,7 @@ Aquí hay una tabla con algunos otros comandos de Metasploit que puedes utilizar
 Estos comandos te permitirán experimentar más sobre **Metasploit Framework** mientras interactúas con la máquina víctima.
 
 < [!Warning]
-< 
+< Recuerda siempre hacer esto en entornos controlados. 
 
 
 
